@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: mlomax@twu.edu | 713-962-0931
 - ⚡ Fun fact: https://murials-portfolio.netlify.app/
-- Started https://medium.com/@mlomax_46744 
+-  https://medium.com/@mlomax_46744 
