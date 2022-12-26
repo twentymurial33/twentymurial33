@@ -14,7 +14,7 @@ Hi there 👋 , I'm Murial Anindo
 
                                                    Hi there 👋 , I'm Murial Anindo
                                                  
-         A Front-End Software Developer,who is passionate about building products while working on a ton of technologies.
+         A Front-End Software Developer,who is passionate about building products while working with a ton of technologies.
          
                                        Lets work together in 2023 and beyond 👯 
                                        
