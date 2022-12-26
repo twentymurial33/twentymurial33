@@ -27,4 +27,5 @@ Hi there 👋 , I'm Murial Anindo
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/twentymurial33/)
 
-https://icons8.com/icon/RMOSvUQ2lycM/portfolio
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,react,css,html,&perline=3)](https://skillicons.dev)
+
