@@ -12,13 +12,10 @@ Hi there 👋 , I'm Murial Anindo
 - 📫 Started https://medium.com/@mlomax_46744 
 -->
 
-                                                   Hi there 👋 , I'm Murial Anindo
-                                                 
-     A Front-End Software Developer,who is passionate about building products while working with a ton of technologies.
-         
-                                       Lets work together in 2023 and beyond 👯 
                                        
-                                       You can reach me by email at mlomax@twu.edu 📫 
+  A collaborative self-taught Software Developer,experienced in HTML, CSS, JavaScript, and various front-end frameworks.
+         
+                                  
                                        
                                        
                                       
