@@ -20,9 +20,9 @@ Hi there 👋 , I'm Murial Anindo
                                        
                                       
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/murial-anindo/)
+[LinkedIn](https://www.linkedin.com/in/murial-anindo/)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/twentymurial33/)
+[GitHub](https://github.com/twentymurial33/)
 
 [![My Skills](https://skillicons.dev/icons?i=aws,javascript,postgres,typescript,styledcomponents,nextjs,react,css,html,prisma,mongo,materialui&perline=3)](https://skillicons.dev)
 
