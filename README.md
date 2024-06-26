@@ -24,5 +24,5 @@ Hi there 👋 , I'm Murial Anindo
 &nbsp;
 [GitHub](https://github.com/twentymurial33/)
 
-[![My Skills](https://skillicons.dev/icons?i=aws,javascript,postgres,typescript,styledcomponents,nextjs,react,css,html,prisma,mongo,materialui&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,javascript,postgres,typescript,styledcomponents,nextjs,react,css,html,prisma,remix,php,mongo,materialui&perline=3)](https://skillicons.dev)
 
