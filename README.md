@@ -13,7 +13,9 @@ Hi there 👋 , I'm Murial Anindo
 -->
 
                                        
-  A collaborative self-taught Software Developer,experienced in HTML, CSS, JavaScript, and various front-end frameworks.
+Software Developer,proficient in HTML, CSS, JavaScript, React and TypeScript and many more I'm fiddling with. I'm ready to collaborate with product teams to build scalable SaaS products. 
+
+
          
                                   
                                        
