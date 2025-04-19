@@ -26,5 +26,5 @@ Software Developer,proficient in HTML, CSS, JavaScript, React and TypeScript and
 &nbsp;
 [GitHub](https://github.com/twentymurial33/)
 
-[![My Skills](https://skillicons.dev/icons?i=aws,tailwind,javascript,postgres,typescript,styledcomponents,nextjs,react,css,html,prisma,remix,materialui&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,tailwind,javascript,postgres,typescript,styledcomponents,nextjs,react,css,html,prisma,materialui&perline=3)](https://skillicons.dev)
 
