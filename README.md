@@ -13,7 +13,7 @@ Hi there 👋 , I'm Murial Anindo
 -->
 
                                        
-Software Developer,proficient in HTML, CSS, JavaScript, React and TypeScript and many more I'm fiddling with. I'm ready to collaborate with product teams to build scalable SaaS products. 
+Software Developer,proficient in HTML, CSS, JavaScript, React and TypeScript and many more. I'm ready to collaborate with product teams to build scalable SaaS products. 
 
 
          
