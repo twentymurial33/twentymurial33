@@ -13,7 +13,7 @@ Hi there 👋 , I'm Murial Anindo
 -->
 
                                        
-Software Developer building Saas products in  HTML, CSS, JavaScript, React, Next, .NET and SQL.
+Software Developer building SaaS products in  HTML, CSS, JavaScript, React, Next, .NET and SQL.
 
 
          
