@@ -13,7 +13,7 @@ Hi there 👋 , I'm Murial Anindo
 -->
 
                                        
-Full Stack Software Engineer building SaaS products in  HTML, CSS, JavaScript, React, Next, .NET and SQL.
+Full Stack Software Engineer building SaaS products in  HTML, CSS, JavaScript, React, Next, Prisma .NET and SQL.
 
 
          
