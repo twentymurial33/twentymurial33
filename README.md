@@ -20,10 +20,7 @@ Full Stack Software Engineer building SaaS products in  HTML, CSS, JavaScript, R
                                   
                                        
                                        
-                                      
-
-[LinkedIn](https://www.linkedin.com/in/murial-anindo/)
-&nbsp;
+                                
 [GitHub](https://github.com/twentymurial33/)
 
 [![My Skills](https://skillicons.dev/icons?i=react,javascript,postgres,typescript,styledcomponents,nextjs,react,css,html,prisma,aws,materialui&perline=3)](https://skillicons.dev)
