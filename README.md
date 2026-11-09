@@ -20,6 +20,7 @@ Full Stack Software Engineer building SaaS products in  HTML, CSS, JavaScript, R
                                   
                                        
                                        
+  📫 How to reach me: twentymurial22@gmail.com                                     
                                 
 [GitHub](https://github.com/twentymurial33/)
 
